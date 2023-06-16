@@ -4,10 +4,10 @@ Repository for my Project on Theory of Chaos. The code used for the images can b
 
 $$
 x' = \sigma (y-x)
-$$
+$$,
 $$
 y' = rx - y -xz
-$$
+$$,
 $$
 z' = xy - bz
 $$
