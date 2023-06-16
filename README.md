@@ -7,6 +7,10 @@ Repository for my Project on Theory of Chaos. The code used for the images can b
 ![equation](https://latex.codecogs.com/gif.latex?z%27%20%3D%20xy%20-%20bz)
 
 
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
+
 $$
 x' = \sigma (y-x)
 $$
