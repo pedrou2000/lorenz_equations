@@ -22,19 +22,19 @@ The project further delves into the implications of the Lorenz system, exploring
 
 A deeper understanding of these topics is vital for gaining insights into chaotic systems, a concept that fundamentally changes our understanding of predictability in seemingly random patterns in nature.
 
-Repository Content
+## Repository Content
 This repository contains:
 
 Python scripts: Python code to generate the trajectories of the Lorenz system. By changing the parameters, you can visualize different behaviors of the Lorenz system.
 
 Poster (in PDF format): The poster provides a graphical and succinct overview of the concepts. It discusses the Lorenz equations, their properties, global stability, and the emergence of strange attractors and chaos.
 
-Getting Started
+## Getting Started
 To run the code, clone the repository to your local machine. Make sure that you have Python installed, along with the necessary libraries listed in the requirements.txt file.
 
 You can generate trajectories for the Lorenz system by running the Python scripts and manipulate the system parameters to observe their impact on the system's behavior.
 
-Concluding Thoughts
+## Concluding Thoughts
 This project offers a comprehensive exploration of the Lorenz Equations and their role in understanding chaotic behavior in deterministic systems. It is hoped that the provided resources, including the Python code and poster, prove useful in your journey into the fascinating world of Chaos Theory. Your feedback and suggestions for improving this repository are most welcome!
 
 Enjoy exploring!
