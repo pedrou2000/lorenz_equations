@@ -8,7 +8,9 @@ Repository for my Project on Theory of Chaos. The code used for the images can b
 
 
 ```math
-SE = \frac{\sigma}{\sqrt{n}}
+x' = \sigma (y-x)
+y' = rx - y -xz
+z' = xy - bz
 ```
 
 $$
