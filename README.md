@@ -9,7 +9,11 @@ Repository for my Project on Theory of Chaos. The code used for the images can b
 
 ```math
 x' = \sigma (y-x)\\
+```
+```math
 y' = rx - y -xz\\
+```
+```math
 z' = xy - bz
 ```
 
