@@ -25,9 +25,9 @@ A deeper understanding of these topics is vital for gaining insights into chaoti
 ## Repository Content
 This repository contains:
 
-Python scripts: Python code to generate the trajectories of the Lorenz system. By changing the parameters, you can visualize different behaviors of the Lorenz system.
+- Python scripts: Python code to generate the trajectories of the Lorenz system. By changing the parameters, you can visualize different behaviors of the Lorenz system.
 
-Poster (in PDF format): The poster provides a graphical and succinct overview of the concepts. It discusses the Lorenz equations, their properties, global stability, and the emergence of strange attractors and chaos.
+- Poster (in PDF format): The poster provides a graphical and succinct overview of the concepts. It discusses the Lorenz equations, their properties, global stability, and the emergence of strange attractors and chaos.
 
 ## Getting Started
 To run the code, clone the repository to your local machine. Make sure that you have Python installed, along with the necessary libraries listed in the requirements.txt file.
